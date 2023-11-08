@@ -1,5 +1,5 @@
 '''
-CS 121: PA 6 - Avian Biodiversity Treemap
+Avian Biodiversity Treemap
 
 YOUR NAME HERE
 
